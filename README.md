@@ -17,3 +17,8 @@ For this experiment I thought to take a deeper look at XAI (explainable AI metho
 The hypothesis here is if we had edges with a high IG and high attention, it would mean that the model has successfully learned local features with causal reality. If not, then the model has likely only learned structural redundancies.
 
 To conduct this experiment, we'll be using CAPTUM (https://captum.ai/tutorials/Titanic_Basic_Interpret) a pytorch tool used to interpret models using integraded gradients. Read more on CAPTUM & IGs here (https://arxiv.org/pdf/2009.07896)
+
+
+## Important Note
+
+Github had recent rendering issues on jupyter notebooks, if you cannot see the notebook properly, there's a rendered markdown version in the same location.
