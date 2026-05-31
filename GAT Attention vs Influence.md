@@ -4,7 +4,7 @@
 
 -It works by repeatedly measuring gradients (dX/dtarget) for various inputs and outputs (i.e if I change this input X by dX, how much will it change the output prediction changes). Captum computes these gradients starting from baseline input all the way to the predicted value. Captum then averages these gradients  then multiplies the result by the difference between the input and the baseline.
 
-![image.png](GAT Attention vs Influence_files/4c3d9f94-943f-474e-a19f-7cc2f9f54cee.png)
+![image.png](/GAT%20Attention%20vs%20Influence_files/4c3d9f94-943f-474e-a19f-7cc2f9f54cee.png)
 
 # Experiment
 
@@ -232,7 +232,7 @@ plt.show()
 
 
     
-![png](GAT%20Attention%20vs%20Influence_files/GAT%20Attention%20vs%20Influence_27_0.png)
+![png](GAT%20Attention%20vs%20Influence_files/GAT%20Attention%20vs%20Influence_25_0.png)
     
 
 
