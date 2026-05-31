@@ -1,6 +1,6 @@
 # Background & Objectives
 
-I recently came across a session by S&P Global on their use of GNNs & Nvidia Cugraph in a use case where the firm explores the ability to predict issuance of bonds (https://www.nvidia.com/en-us/on-demand/session/gtc25-s74726/) and due to the nature of the firm being a major data provider to most wall street shops on various packages and sectors, I figured that asset managers would certainly like to verify that the GNN model actually learns the underlying causal financial mechanisms instead of merely exploiting superficial structural correlations.
+I recently came across a session by S&P Global on their use of GNNs & Nvidia Cugraph in a use case where the firm explores the ability to predict issuance of bonds (https://www.nvidia.com/en-us/on-demand/session/gtc25-s74726/) and due to the nature of the firm being a major data provider to most wall street shops on various packages and sectors, I figured that the team would certainly like to verify that the GNN model actually learns the underlying causal financial mechanisms instead of merely exploiting superficial structural correlations.
 
 The graph being a large heterogeneous graph connecting companies, bonds, markets and clients presents a complex prediction challenge as the GNN model has to capture interaction between micro-level corporate needs (liquidity, debt financing) and macro-level market dynamics (investor demand, yeild curves..etc). 
 
