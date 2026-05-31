@@ -21,4 +21,4 @@ To conduct this experiment, we'll be using CAPTUM (https://captum.ai/tutorials/T
 
 ## Important Note
 
-Github had recent rendering issues on jupyter notebooks, if you cannot see the notebook properly, there's a rendered markdown version in the same location.
+Github had recent rendering issues on jupyter notebooks, if you cannot see the [notebook](/GAT%20Attention%20vs%20Influence.ipynb.md) properly, there's a rendered [markdown version](/GAT%20Attention%20vs%20Influence.md) in the same location.
